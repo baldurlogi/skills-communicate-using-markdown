@@ -4,3 +4,7 @@
 ``` javascript
 var myVar = "Hello World!"
 ```
+
+- [ ] Wake up
+- [ ] Brush teeth
+- [ ] Have breakfast
